@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <title>formularios</title>
+  </head>
+  <body>
+    <h1>formulario de información</h1>
+    <br>
+    <form action="procesarformulario.php" method="get">
+      <p>nombre: <input type="text" name="nombre" size="40"></p>
+      <p>apellido: <input type="text" name="apellido" size="40"></p>
+      <p>E-mail: <input type="email" name="E-mail" size="40" required=""></p>
+      <p>
+        año de nacimiento:
+        <input type="number" name="nacimiento" min="1950" max="2015">
+      </p>
+      <p>foto del dni: <input type="file" name="fotodni" size="2"></p>
+      <p>
+        sexo: <br>
+        hombre<input type="radio" name="sexo" value="hombre"> mujer<input
+          type="radio"
+          name="sexo"
+          value="mujer">
+      </p>
+
+      <p>
+        Deportes <input type="checkbox" name="futbol">futbol
+        <input type="checkbox" name="baloncesto">baloncesto
+        <input type="checkbox" name="voley">voley
+      </p>
+
+      <p>
+        <input type="submit" value="enviar">
+        <input type="reset" value="borrar">
+      </p>
+    </form>
+
+    <!--code injected by live server-->
+    <script>
+      _;
+    </script>
+  </body>
+</html>
