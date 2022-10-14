@@ -1,0 +1,13 @@
+dl{
+    list-style-type:georgian;
+    }
+    ol{
+    list-style-image:url("imagen/cara.png");
+     }
+     dt.html{
+        background-color: yellow;
+        border-color: brown;
+        border-width: 2px;
+        border-style: dotted;
+
+     }
