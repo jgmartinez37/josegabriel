@@ -1,0 +1,30 @@
+body {
+    border-style: solid;
+    border-width: 1em;
+    border-color: rgb(224, 11, 11);
+    background-color:antiquewhite;
+}
+h1{
+    border-style: dotted;
+    border-width:1em;
+    border-color: aqua;
+}
+table{
+    border-color: brown;
+    border-style:double;
+    border: width:1em;
+    background-color: chartreuse;
+}
+tr{
+border:2em;
+border-color: blue;
+border-style: solid;
+
+}
+
+td{
+border:2em;
+border-color:yellow;
+border-style: double;
+
+}
