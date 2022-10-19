@@ -3,17 +3,22 @@ body {
     border-width: 1em;
     border-color: rgb(224, 11, 11);
     background-color:antiquewhite;
+
 }
 h1{
     border-style: dotted;
     border-width:1em;
-    border-color: aqua;
+    border-color: #356b6b;
 }
 table{
     border-color: brown;
     border-style:double;
-    border: width:1em;
+    border-width:1em;
     background-color: chartreuse;
+    border-top-left-radius: 30px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-top-left-radius: 40px;
 }
 tr{
 border:2em;
@@ -23,8 +28,17 @@ border-style: solid;
 }
 
 td{
-border:2em;
+border: 2em;
 border-color:yellow;
 border-style: double;
-
+padding-top: 15%;
+padding-bottom: 15%;
+border-top-left-radius: 40px;
 }
+blockquote {
+    padding: 3px 10px;
+    border: PowderBlue 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  
