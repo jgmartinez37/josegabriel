@@ -2,13 +2,20 @@ header {
 border: 3px blue solid;
 height:20% ;
 }
+li.menu {
+    display: inline;
+    border: 1px black solid;
+    padding: 2px;
+       
+
+}
 nav {
     border: 3px rgb(0, 0, 0) solid;
     height:60% ;
-    width:20%;
 }
 
 main {
+    display: inline;
 
 }
 footer {
