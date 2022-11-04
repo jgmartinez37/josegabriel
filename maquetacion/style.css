@@ -1,0 +1,13 @@
+header.menu{
+    border: 1px blue solid;
+    padding: 15%;
+}
+main.menu{
+    border: 1px rgb(223, 27, 53) solid;
+    padding: 10%;
+
+}
+footer.menu{
+    border: 1px black solid;
+    padding: 15%; ;
+}
