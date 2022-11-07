@@ -1,0 +1,23 @@
+div.header {
+    padding: 7%;
+    background-color: darkgrey;
+
+}
+div.menu { 
+    display: inline;
+    padding: 15px;
+
+}
+div.cuader-padre {
+    padding: 20px;
+    border: 2px blueviolet solid;
+    background-color: rgb(43, 46, 226);
+    height: 40%;
+
+}
+div.hijo1 {
+    border: 2px red solid;
+    width: 20%;
+    height: 20%;
+    background-color: red;
+}
