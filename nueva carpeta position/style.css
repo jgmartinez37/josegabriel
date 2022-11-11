@@ -1,0 +1,107 @@
+body {
+    background-color:lightgrey;
+}
+div.container {
+    border: px black solid;
+    background-color: lightgreen;
+    position: absolute;
+    width: 80%;
+    left: 14%;
+    height:70%;
+    top: 10%;
+    right: 10%;
+
+
+}
+nav {
+    border:px black solid;
+    background-color: rgb(65, 67, 70);
+    height: 10%;
+}
+div.nav-item {
+    display: inline;
+    padding: 50px;
+    color: white;
+
+    
+}
+div.caja1 {
+    border: 1px black solid;
+    background-color: white;
+    position: absolute;
+    top: 30%;
+    width:20%;
+    left: 10%;
+}
+
+img.img1 {
+    width: 90%;
+
+}
+div.caja2 {
+    border: 1px black solid;
+    background-color: white;
+    position: absolute;
+    top: 33%;
+    width:20%;
+    left: 27%;
+}
+
+img.img2 {
+    width: 90%;
+
+}
+div.caja3 {
+    border: 1px black solid;
+    background-color: white;
+    position: absolute;
+    top: 30%;
+    width:20%;
+    left: 43%;
+}
+
+img.img3 {
+    width: 90%;
+}
+div.caja4 {
+    border: 1px black solid;
+    background-color: white;
+    position: absolute;
+    top: 35%;
+    width:20%;
+    left:60%;
+}
+
+img.img4 {
+    width: 90%;
+}
+
+div.fixed-sidebar {
+border: 2px black solid;
+position: absolute;
+height: 40%;
+top: 30%;
+left: 20px;
+
+}
+
+img.img5 {
+    border: px black solid;
+    position: absolute;
+    height: 50px;
+    width: 40px;
+    left: 8%;
+    top: 3px;
+
+}
+
+    
+ul,li {
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+    padding-top: 2px;
+    padding-left: 0px;
+    font-size: 13px;
+    
+}
