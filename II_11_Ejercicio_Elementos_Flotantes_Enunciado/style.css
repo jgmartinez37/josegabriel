@@ -36,6 +36,7 @@ div .course {
     float:right;
     margin-top:10px;
     margin-left:5px;
+    border-radius: 8px;
 }
 img {
     height: 80px;
