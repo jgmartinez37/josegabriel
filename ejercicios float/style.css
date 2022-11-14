@@ -17,8 +17,8 @@ nav .menu-item {
     
 }
 div.sidebar {
-    height: 600px;
-    width: 150px;
+    height: 580px;
+    width: 120px;
     border: 1px black solid;
     background-color: black;
     color: white;
@@ -28,30 +28,37 @@ div.sidebar {
 
 }
 
-section.courses {
-    border: 1px black solid;
-    
+section.courser {
 
 }
+
 div .course {
     border: 1px black solid;
     width: 255px;
-    float:right;
-    margin-top:20px;
-    margin-left:5px;
     border-radius: 8px;
+    margin:auto;
+    display: inline-flex;
+    margin-top: 20px;
+    margin-left: 10px;
+
+
+    
+
+
     
 }
 img {
     height: 80px;
-    display:block;
-    margin:auto;
+    float:
+
+
+
     
 }
 section.articles {
-    display: flex;
-    margin-top:350px;
-    margin-bottom:100px;
+    display:flex;
+    margin-top:50px;
+    margin-bottom:200px;
 
 }
 
