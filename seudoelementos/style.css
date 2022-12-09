@@ -1,0 +1,25 @@
+/*autor: jose gabriel martinez */
+header pre:first-child {
+   color: rgb(35, 236, 220); 
+}
+
+a:link{
+   background-color: yellow;
+}
+a:visited{
+   background-color: blue;}
+
+a:hover{
+   background-color: pink;
+   color:white;
+   font-size: larger;
+   font-weight: bold;
+   font-style: oblique;
+}
+a:active{
+   background-color: aqua;
+color: yellow;
+}
+
+
+
